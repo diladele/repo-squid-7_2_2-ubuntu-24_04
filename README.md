@@ -7,8 +7,7 @@ This project provides online repository for Squid 7.2-2 recompiled for Ubuntu 24
 
 This version of Squid is used in Web Safety 9.7. Web Safety for Squid Proxy is an ICAP web filtering server/secure web gateway that integrates with Squid proxy server and provides rich content and web filtering functionality to sanitize Internet traffic passing into an internal home/enterprise network. It may be used to block illegal or potentially malicious file downloads, remove annoying advertisements, check downloaded files for viruses, prevent access to various categories of web sites and block resources with adult/explicit content.
 
-Web Safety also has a user friendly Admin UI that you can use to manage your Squid proxy from the browser. To try it out, have a look at [Virtual Appliance ESXi/Hyper-v](https://www.diladele.com/websafety/download.html), [deploy in Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/diladele.websafety?tab=Overview) or [deploy in Amazon AWS](https://aws.amazon.com/marketplace/pp/B07KJHLHKC). Download [your free home license today](https://www.diladele.com/websafety/licensing.html).
-
+Web Safety also has a user friendly Admin UI that you can use to manage your Squid proxy from the browser. To try it out, have a look at [Virtual Appliance ESXi/Hyper-v](https://www.diladele.com/websafety/download.html), [deploy in Microsoft Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/diladele.websafety?tab=Overview) or [deploy in Amazon AWS](https://aws.amazon.com/marketplace/pp/B07KJHLHKC). 
 
 ## How to Install
 
