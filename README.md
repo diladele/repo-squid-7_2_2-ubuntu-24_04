@@ -15,7 +15,7 @@ If you are installing Squid 7.2 for the first time from this repository, run the
 
 ```bash
 # add diladele apt key
-wget -qO - https://packages.diladele.com/diladele_pub.asc | sudo apt-key add -
+wget -qO - https://www.diladele.com/pkg/diladele_pub.asc | sudo apt-key add -
 
 # add new repo
 echo "deb https://diladele.github.io/repo-squid-7_2_2-ubuntu-24_04/repo/ubuntu/ noble main" \
